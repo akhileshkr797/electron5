@@ -10,7 +10,7 @@ function createWindow(fileStr, options) {
 
     win.loadURL(url.format({
         pathname: path.join(__dirname, fileStr),
-        protocol: true,
+        protocol: 'file:',
         slashes: true
     }))
 

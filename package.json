@@ -1,0 +1,19 @@
+{
+    "name": "electron5",
+    "version": "1.0.0",
+    "description": "sample electron learning",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/akhileshkr797/electron5.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/akhileshkr797/electron5/issues"
+    },
+    "homepage": "https://github.com/akhileshkr797/electron5#readme"
+}
